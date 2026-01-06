@@ -4,7 +4,7 @@ A clean and structured repository documenting my journey of learning **Python fr
 
 ## 📂 Structure
 
-- `hello_world.py` → first Python program  
+- `00_setup` → compiler setup and first C++ program 
 - `01_variables` → variables, input/output, basic data types, type conversion  
 
 ## 🎯 Goals

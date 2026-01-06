@@ -4,8 +4,6 @@ A clean and structured repository documenting my journey of learning **Python**,
 
 ## 📂 Structure
 
-- `01_basics` → print statements
-
 ## 🎯 Goals
 
 - Build strong Python fundamentals from zero

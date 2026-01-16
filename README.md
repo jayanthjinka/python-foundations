@@ -6,6 +6,9 @@ A clean and structured repository documenting my journey of learning **Python fr
 
 - `00_setup` → compiler setup and first C++ program 
 - `01_variables` → variables, input/output, basic data types, type conversion  
+- `02_control_flow` → Decision making using `if`, `elif`, and `else`  
+
+- `notes` → Concept explanations written in my own words  
 
 ## 🎯 Goals
 
